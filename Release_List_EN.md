@@ -2,6 +2,18 @@
 
 ## optee v2
 
+| Date       | file           | Build commit | Severity  |
+| ---------- | :------------- | ------------ | --------- |
+| 2023-05-18 | uclibc_lib/arm | 25920641     | important |
+
+### New
+
+1. Add OPTEE library which are compiled by the uclibc toolchain.
+
+---
+
+## optee v2
+
 | Date       | file                 | Build commit | Severity |
 | ---------- | :------------------- | ------------ | -------- |
 | 2023-04-07 | librk_tee_service.so | 0435e966     | moderate |
@@ -11,5 +23,4 @@
 1. Support read secure boot enable flag.
 2. Support read secure boot public key hash.
 
-------
-
+---
