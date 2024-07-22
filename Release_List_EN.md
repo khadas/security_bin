@@ -2,6 +2,18 @@
 
 ## optee v2
 
+| Date       | file                                 | Build commit | Severity  |
+| ---------- | :----------------------------------- | ------------ | --------- |
+| 2024-07-22 | libteec.a libckteec.a tee-supplicant | 4cb63d20     | important |
+
+### New
+
+1. Secure storage supports UFS RPMB.
+
+------
+
+## optee v2
+
 | Date       | file                                   | Build commit | Severity  |
 | ---------- | :------------------------------------- | ------------ | --------- |
 | 2023-05-18 | libckteec.so libteec.so tee-supplicant | 25920641     | important |
