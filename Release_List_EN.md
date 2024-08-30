@@ -4,6 +4,18 @@
 
 | Date       | file                                 | Build commit | Severity  |
 | ---------- | :----------------------------------- | ------------ | --------- |
+| 2024-08-30 | uclibc_lib/arm/libckteec.a/so        | 4cb63d20     | important |
+
+### New
+
+1. uclibc add libckteec libs to fix compile error in rk_tee_usr/.
+
+------
+
+## optee v2
+
+| Date       | file                                 | Build commit | Severity  |
+| ---------- | :----------------------------------- | ------------ | --------- |
 | 2024-07-22 | libteec.a libckteec.a tee-supplicant | 4cb63d20     | important |
 
 ### New
